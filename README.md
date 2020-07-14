@@ -1,4 +1,4 @@
-# Cloud Engineer - Full stack developer
+# Cloud Engineer - Full Stack Developer
 
 ### react, micro-services, python
 
