@@ -6,8 +6,6 @@ Read [my blog](https://medium.com/@timothy.urista) or [follow @timurista on Twit
 
 ### Websites
 
-- [Tradebulls](https://tradebulls.herokuapp.com) - stock market analysis
-
 - [theTimurista](https://thetimurista.com) - Medium Article Analsyis on Data science topics
 
 ## Interested in collaborating?
