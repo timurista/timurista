@@ -1,6 +1,6 @@
 # Cloud Engineer - Full Stack Developer
 
-# theTimUrista.com
+# theTimurista.com
 ![image](https://user-images.githubusercontent.com/4718607/158083098-7afba388-f32e-4101-9481-35760691ba07.png)
 
 [theTimurista](https://thetimurista.com) - Latest articles and news on Machine Learning topics, Devops etc. auto generated from Medium.com and research papers from Cornell UNiversity Press.
