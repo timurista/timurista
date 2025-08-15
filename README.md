@@ -1,11 +1,12 @@
 # Cloud Engineer - Full Stack Developer
 
-# theTimurista.com
-![image](https://user-images.githubusercontent.com/4718607/158083098-7afba388-f32e-4101-9481-35760691ba07.png)
+# timurista.ai
+<img width="1291" height="721" alt="image" src="https://github.com/user-attachments/assets/221d43c2-7b07-48c1-ac81-62780f5d0eb5" />
 
-[theTimurista](https://thetimurista.com) - Latest articles and news on Machine Learning topics, Devops etc. auto generated from Medium.com and research papers from Cornell UNiversity Press.
 
-### Kuberentes, Terraform, AWS, python, golang, react, micro-services
+[TimUrista AI](timurista.ai) - Latest articles and news on Machine Learning topics, Devops etc. and my ongoing work
+
+### Kuberentes, Terraform, AWS, python, golang, react, micro-services, agentic workflows
 
 Read [my blog](https://timothy-urista.medium.com/) or [follow @timurista on Twitter](https://twitter.com/timurista).
 
